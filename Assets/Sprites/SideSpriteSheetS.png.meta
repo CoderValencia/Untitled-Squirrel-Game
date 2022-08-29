@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: acf3971dafcf9b645a9688a88a9f2ac4
+guid: 29b6d93ea0b9ff647a28bf28c54e552c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BackSpriteSheetS_SCALEDUP_0
+      name: SideSpriteSheetS_0
       rect:
         serializedVersion: 2
-        x: 573
-        y: 331
-        width: 1032
-        height: 1618
+        x: 7
+        y: 13
+        width: 55
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad64f7f3673ed7242be383439b823449
-      internalID: -1047763497
+      spriteID: 3fa8099f78656724db70a33f39365289
+      internalID: -605201190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BackSpriteSheetS_SCALEDUP_1
+      name: SideSpriteSheetS_1
       rect:
         serializedVersion: 2
-        x: 2872
-        y: 395
-        width: 1096
-        height: 1671
+        x: 70
+        y: 13
+        width: 56
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a8bd99125403a5468894b7afe4c8059
-      internalID: -851850812
+      spriteID: f204adc4f53b84e4dbbe836156217676
+      internalID: 557683352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BackSpriteSheetS_SCALEDUP_2
+      name: SideSpriteSheetS_2
       rect:
         serializedVersion: 2
-        x: 5256
-        y: 363
-        width: 1001
-        height: 1746
+        x: 134
+        y: 13
+        width: 56
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a0a674ca9a60674e89b79dbc2dc59fa
-      internalID: -613427250
+      spriteID: eae21ee32bc790a4e9953864c9cdf0e4
+      internalID: 599604638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BackSpriteSheetS_SCALEDUP_3
+      name: SideSpriteSheetS_3
       rect:
         serializedVersion: 2
-        x: 7268
-        y: 363
-        width: 1181
-        height: 1788
+        x: 198
+        y: 12
+        width: 56
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4856eda421aeaa14e8343d57a3568671
-      internalID: -878900390
+      spriteID: 61308fc99f4ddfb4897216c1345812f5
+      internalID: -229863036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BackSpriteSheetS_SCALEDUP_4
+      name: SideSpriteSheetS_4
       rect:
         serializedVersion: 2
-        x: 9748
-        y: 278
-        width: 1001
-        height: 1724
+        x: 261
+        y: 12
+        width: 56
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d3750bd4354e1a45aa8dada7a87a1c6
-      internalID: 651752919
+      spriteID: 91a8c499ce2ae9645a64dedaea3b8890
+      internalID: -1409902882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BackSpriteSheetS_SCALEDUP_5
+      name: SideSpriteSheetS_5
       rect:
         serializedVersion: 2
-        x: 12058
-        y: 257
-        width: 990
-        height: 1862
+        x: 325
+        y: 12
+        width: 56
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec5ba338ef41a544fab8c7531c59875d
-      internalID: 1693344474
+      spriteID: d6685a19ada4bac4ebd73cd246c093ac
+      internalID: 1938243857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BackSpriteSheetS_SCALEDUP_6
+      name: SideSpriteSheetS_6
       rect:
         serializedVersion: 2
-        x: 14463
-        y: 257
-        width: 980
-        height: 1852
+        x: 389
+        y: 12
+        width: 56
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +256,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a18248c7c9f572743b9c1fa82641c0e4
-      internalID: -1925090077
+      spriteID: 2e82006f942726a4f8c440b06d72ab9f
+      internalID: -1201219218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BackSpriteSheetS_SCALEDUP_7
+      name: SideSpriteSheetS_7
       rect:
         serializedVersion: 2
-        x: 16677
-        y: 320
-        width: 926
-        height: 1725
+        x: 453
+        y: 12
+        width: 56
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,8 +277,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffb6191ad99ad4849937d3f3ff80dc03
-      internalID: -522619844
+      spriteID: 651c14ee4a697ba4aa7a98247ad31af4
+      internalID: -2093938529
       vertices: []
       indices: 
       edges: []
@@ -294,14 +294,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BackSpriteSheetS_SCALEDUP_2: -613427250
-      BackSpriteSheetS_SCALEDUP_5: 1693344474
-      BackSpriteSheetS_SCALEDUP_3: -878900390
-      BackSpriteSheetS_SCALEDUP_4: 651752919
-      BackSpriteSheetS_SCALEDUP_7: -522619844
-      BackSpriteSheetS_SCALEDUP_0: -1047763497
-      BackSpriteSheetS_SCALEDUP_1: -851850812
-      BackSpriteSheetS_SCALEDUP_6: -1925090077
+      SideSpriteSheetS_4: -1409902882
+      SideSpriteSheetS_2: 599604638
+      SideSpriteSheetS_6: -1201219218
+      SideSpriteSheetS_5: 1938243857
+      SideSpriteSheetS_1: 557683352
+      SideSpriteSheetS_3: -229863036
+      SideSpriteSheetS_0: -605201190
+      SideSpriteSheetS_7: -2093938529
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
